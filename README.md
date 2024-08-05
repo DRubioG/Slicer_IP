@@ -1,2 +1,8 @@
 # Slicer_IP
- This is a dynamic IP for slice signal bits
+ This is a dynamic IP to slice a signal by bits
+
+![1](./img/1.png)
+
+![2](./img/2.png)
+
+![3](./img/3.png)
